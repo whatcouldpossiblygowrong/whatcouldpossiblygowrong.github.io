@@ -21,4 +21,7 @@ If you want to use this theme as a project page blog, you don't need to rename t
 
 All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
 
-#### Cheers!
+### Check this image!
+
+![Salesforce Architect journey](https://developer.salesforce.com/resources2/certification-site/images/roles/2019-09_CTA-Pyramid-Explorations_FINAL-Characters.png)
+
