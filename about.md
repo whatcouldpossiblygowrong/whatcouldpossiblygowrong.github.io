@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Hi Everybody! I'm Tomasz Skierkowski and I'm busy finding balance between security & usability mainly while configuring Salesforce orgs
