@@ -3,7 +3,7 @@ layout: post
 title: "This looks like my first post"
 comments: false
 description: "I'm playing around with github pages and jekyll"
-keywords: "keyword1, dupa, kwas"
+keywords: "Salesforce, architect, journey"
 ---
 
 ### This sup-to-date Salesforce architect journey!
