@@ -6,22 +6,7 @@ description: "I'm playing around with github pages and jekyll"
 keywords: "keyword1, dupa, kwas"
 ---
 
-### Wow - there goes a header
-
-- Download or fork the master branch of this theme repo into your GitHub account.
-- Rename the repo into something like `your_username.github.io`.
-- Edit `_config.yml` file to your preferences.
-- Edit `about.md` file for your About page.
-- Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
-- Now, visit `http://your_username.github.io` and you should see your blog running.
-
-### Use this theme as a project page
-
-If you want to use this theme as a project page blog, you don't need to rename the theme repo into `your_username.github.io`.
-
-All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
-
-### Check this image!
+### This sup-to-date Salesforce architect journey!
 
 ![Salesforce Architect journey](https://developer.salesforce.com/resources2/certification-site/images/roles/2019-09_CTA-Pyramid-Explorations_FINAL-Characters.png)
 
