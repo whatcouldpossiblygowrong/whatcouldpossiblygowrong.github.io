@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
-comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+title: "This looks like my first post"
+comments: false
+description: "I'm playing around with github pages and jekyll"
+keywords: "keyword1", "keyword2"
 ---
 
-### Use this theme as you main site
+### Wow - there goes a header
 
 - Download or fork the master branch of this theme repo into your GitHub account.
 - Rename the repo into something like `your_username.github.io`.
